@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string-array name="grade">
+        <item>Enter Class</item>
+        <item>IX</item>
+        <item>X</item>
+        <item>XI</item>
+        <item>XII</item>
+    </string-array>
+
+    <string-array name="subject">
+        <item>Enter Subject</item>
+        <item>History</item>
+        <item>Political Science</item>
+    </string-array>
+</resources>
